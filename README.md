@@ -17,3 +17,8 @@
 ## sklearn :- Model building.
 ## Python-flask :- Backend server.
 ## HTML,CSS,JAVASCRIPT :- Website.
+
+# SCREENSHOT
+
+![WhatsApp Image 2020-05-28 at 2 22 15 AM](https://user-images.githubusercontent.com/42885822/83072965-449a0980-a08d-11ea-9a18-c9fceab44137.jpeg)
+

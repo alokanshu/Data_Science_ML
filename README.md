@@ -8,3 +8,12 @@
 ## 4. server will start running at your localhost:5500
 ## 5. Go to the client folder and double click on app.html
 ## 6. Use the application.
+
+
+# TOOLS AND TECHNOLOGY USED
+## Python :- As a programming language.
+## Pandas :- For data cleaning.
+## Matplotlib:- For data visualisation.
+## sklearn :- Model building.
+## Python-flask :- Backend server.
+## HTML,CSS,JAVASCRIPT :- Website.
